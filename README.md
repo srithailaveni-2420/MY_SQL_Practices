@@ -7,11 +7,11 @@ Welcome to my learning journey in SQL using PostgreSQL! This repository document
 
 ### 1. SQL Commands 
 
-- Data Definition Language (DDL): Learn how to define and manage database ``schema``, including commands like ``CREATE``, ``ALTER``, and ``DROP``. <br>
-- Data Query Language (DQL): Focus on querying the database using ``SELECT`` statements to retrieve data.<br>
-- Transaction Control Language (TCL): Understand how to control transactions using ``COMMIT``, ``ROLLBACK``, and ``SAVEPOINT``.<br>
-- Data Manipulation Language (DML): Get hands-on with inserting, updating, deleting, and managing data using ``INSERT``, ``UPDATE``, ``DELETE``, and ``MERGE``.<br>
-- Data Control Language (DCL): Learn about managing access permissions using ``GRANT`` and ``REVOKE``.<br>
+- **Data Definition Language** (DDL), Learn how to define and manage database ``schema``, including commands like ``CREATE``, ``ALTER``, and ``DROP``. <br>
+- **Data Query Language** (DQL), Focus on querying the database using ``SELECT`` statements to retrieve data.<br>
+- **Transaction Control Language** (TCL), Understand how to control transactions using ``COMMIT``, ``ROLLBACK``, and ``SAVEPOINT``.<br>
+- **Data Manipulation Language** (DML), Get hands-on with inserting, updating, deleting, and managing data using ``INSERT``, ``UPDATE``, ``DELETE``, and ``MERGE``.<br>
+- **Data Control Language** (DCL), Learn about managing access permissions using ``GRANT`` and ``REVOKE``.<br>
 
 ### 2. Data Types
 - Explore the various data types available in PostgreSQL, understanding their use cases and how to implement them effectively.

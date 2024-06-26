@@ -1,4 +1,4 @@
-# MY_SQL_Practices
+# SQL Practice Using PostgreSQL
 
 Welcome to my learning journey in SQL using PostgreSQL! This repository documents my hands-on experience and progress as I explore the fundamentals and advanced features of SQL. My learning track is structured to cover essential SQL commands and concepts.<br>
 
